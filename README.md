@@ -8,7 +8,7 @@ If you have anything useful to add please do raise a PR or reach out via blogpos
 
  **Note:** Any and all information here does not replace nor is it intended to replace input from health professionals. This is simply my laymen collected notes on my experience.
 
-## Burnout: Podcasts, Interviews, and Playlists
+## Burnout: Posts, Podcasts, Interviews, and Playlists
 
 -   [People Pleaser (Please Others) type](https://changingminds.org/explanations/motivation/kahler_drivers/please_others.htm "People Pleaser (Please Others) type")  in Transactional Analysis
 -   Stimpunks excellent  [post on Burnout](https://stimpunks.org/burnout/ "post on Burnout")
@@ -18,6 +18,8 @@ If you have anything useful to add please do raise a PR or reach out via blogpos
 -   Getting into audio books:  _[Dune](https://amzn.to/49fMK1b "Dune")_
 -   [My Burnout YouTube playlist](https://www.youtube.com/playlist?list=PL5Vqxd_5NOBS_DdwAFpOgRtl5-cFVCLBk "Burnout YouTube playlist")
 -   [My Burnout Spotify playlist](https://open.spotify.com/playlist/3IM5Y1OhAoSWVnloONywjV?si=35e7a82816e84e81 "My Burnout Spotify playlist")
+- [Burnout Questionnaire](https://github.com/nikosantis/burnout-questionnaire)
+- [Burnout.io](https://burnoutio.readthedocs.io/en/latest/)
 
 ## Books about Burnout
 
@@ -87,9 +89,11 @@ Useful Therapy (TA) terms to look up:
 ![Drama Triangle from Transactional Analysis](https://woodyhayday.com/wp-content/uploads/2024/01/drama-triangle-woodyhayday.png)
 
 
+
 ## Resources: Medical Burnout Science Terms
 The following terms may be helpful in researching further.
 
+- Maslach Burnout inventory
 - Chronic Fatigue Syndrome, Chronic stress & Hypocortisolism
 - Adrenal Fatigue
 - ME (Myalgic encephalomyelitis)
@@ -100,7 +104,6 @@ The following terms may be helpful in researching further.
 - (Rapid) thinning of the prefrontal cortex
 - Caudate and putamen (structures susceptible to neurotoxic changes from excessive release of glutamate)
 - Neurological dysfunction
-- Maslach Burnout inventory
 - Unrefreshing sleep
 
 ## Go easy, friend
